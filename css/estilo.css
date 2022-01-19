@@ -1,0 +1,38 @@
+.text-justify {
+	text-align: justify;
+}
+
+.titulo {
+	margin-top: 150px !important;
+	margin-bottom: 80px !important;
+}
+
+.encabezado {
+	height: 100%;
+	display: grid;
+}
+
+.fondo {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.text-left {
+	text-align:left;
+}
+
+.imagen {
+	width: 100%;
+}
+
+.text-white {
+	color: #fff;
+}
+
+.seccion {
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+}
+
+.oferta {
+	font-size: 4rem !important;
+}
